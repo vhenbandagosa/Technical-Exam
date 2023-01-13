@@ -14,7 +14,8 @@
 - Clone this repository.
 - Meet the requirement before getting started.
 - Run `npm install` from project `root` directory and `client` folder.
-- Run `npm run dev` in the terminal to start the app
+- Run `npm run dev` from project `root NOT the client folder`
+- Happy Hacking!
 
 
 ## Default user
