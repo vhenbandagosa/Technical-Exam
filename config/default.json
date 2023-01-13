@@ -1,0 +1,9 @@
+{
+	"db": {
+		"user": "admin@gmail.com",
+		"password": "admin",
+		"host": "localhost",
+		"port": 5432,
+		"database": "exam"
+	}
+}
